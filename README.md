@@ -1,2 +1,2 @@
 # QQMusic
-QQ音乐不是开源软件。QQMusic is NOT open-source software.
+QQ音乐**不是**开源软件。QQMusic is NOT open-source software.
